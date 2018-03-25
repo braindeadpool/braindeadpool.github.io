@@ -1,10 +1,10 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Personal webpage - Suraj
+title: Suraj M S
 description: Suraj's personal website
 keywords: computer vision, machine learning
-baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://www.mssuraj.com  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hi, I'm a CS masters student at Georgia Tech, Atlanta. I'm interested in computer vision and deep learning problems, especially applied to scene understanding and perception.
+  desc: Hi, I'm a CS masters student at Georgia Tech. I'm interested in computer vision and deep learning problems, especially applied to scene understanding and perception.
 
 # comment
 disqus:  # if you wanna comment feature, go to   to get your configuration; if not, comment following two lines.

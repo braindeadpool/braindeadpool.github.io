@@ -1,0 +1,31 @@
+# education section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Georgia Institute of Technology
+    i18n: gatech
+  desc:
+    detail: Atlanta, USA
+    i18n: gatech_location
+  date:
+    detail: Aug 2016 - Apr 2018
+    i18n: gatech_date
+  job:
+    detail: MS Computer Science
+    i18n: gatech_degree
+  icon: fa-plus-square
+  url: https://www.cc.gatech.edu/
+
+- name:
+    detail: BITS Pilani, Goa 
+    i18n: bpgc
+  desc:
+    detail: Goa, India
+    i18n: bpgc_location
+  date:
+    detail: Aug 2011 - May 2015
+    i18n: bpgc_date
+  job:
+    detail: BE (Hons) Electrical and Electronics Engineering
+    i18n: bpgc_degree
+  icon: fa-plus-square
+  url: http://www.bits-pilani.ac.in/Goa/
