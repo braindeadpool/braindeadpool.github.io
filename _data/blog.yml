@@ -7,20 +7,7 @@
   href: /python/
 
 - name: Linux
-  href: /linux/
-
-- name: HTML
-  href: /html/
-
-- name: Database
-  href: /database/
-
-- name: Mac
-  href: /mac/
+  href: /linux//
 
 - name: Life
   href: /life/
-
-# Don't display donation page: change donation to off at file '_config.yml'
-- name: Donate
-  href: /donate/
