@@ -16,6 +16,21 @@
   url: https://www.cc.gatech.edu/
 
 - name:
+    detail: Universidad de Zaragoza
+    i18n: unizar
+  desc:
+    detail: Zaragoza, Spain
+    i18n: unizar_location
+  date:
+    detail: Jan 2015 - Jul 2015
+    i18n: unizar_date
+  job:
+    detail: Visiting student @ Graphics and Imaging Lab
+    i18n: unizar_detail
+  icon: fa-plus-square
+  url: http://graphics.unizar.es/
+
+- name:
     detail: BITS Pilani, Goa 
     i18n: bpgc
   desc:

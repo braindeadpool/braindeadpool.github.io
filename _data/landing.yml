@@ -23,4 +23,4 @@
   name: Blog
   tpl: blog.html
   page: blog/
-  css: testimonials navy-section
+  css: 
