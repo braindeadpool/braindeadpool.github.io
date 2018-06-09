@@ -30,8 +30,8 @@ I'm interested in computer vision and deep learning with an emphasis on percepti
 ### [Georgia Institute of Technology](https://www.cc.gatech.edu), Atlanta, United States
 <div style="text-align: left">MS Computer Science</div> <div style="text-align: right">Aug 2016 - May 2018</div>
 
-### [Universidad de Zaragoza](https://www.cc.gatech.edu), Zaragoza, Spain
+### [Universidad de Zaragoza](http://graphics.unizar.es/), Zaragoza, Spain
 <div style="text-align: left">Visiting student, Graphics and Imaging Lab</div> <div style="text-align: right">Jan 2015 - Jun 2015</div>
 
-### [BITS Pilani](https://www.cc.gatech.edu), Goa, India
+### [BITS Pilani](http://www.bits-pilani.ac.in/Goa/), Goa, India
 <div style="text-align: left">BE(Hons) Electrical and Electronics</div> <div style="text-align: right">Aug 2011 - Jul 2015</div>
