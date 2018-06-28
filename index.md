@@ -8,7 +8,7 @@ layout: default
 Hi! I'm interested in computer vision and deep learning with an emphasis on visual perception and SLAM.
 
 ## Publications
-* Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Predicting trajectories of vehicles using large-scale motion priors](/publications/2018_IV_0596.pdf){:target="_blank"}, 2018 IEEE Intelligent Vehicles Symposium (IV) Changshu, Suzhou, China, June 26-30, 2018
+* Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Predicting trajectories of vehicles using large-scale motion priors](/publications/2018_IV_0596.pdf){:target="_blank"}, Oral presentation, <strong>2018 IEEE Intelligent Vehicles Symposium (IV) Changshu, Suzhou, China, June 26-30, 2018</strong>
 
 
 ## Projects
