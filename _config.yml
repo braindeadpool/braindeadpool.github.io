@@ -9,3 +9,6 @@ tracking_id: UA-84532843-2
 sass:
     style: compressed
     sass_dir: _sass
+
+plugins:
+  - jekyll-seo-tag
