@@ -13,14 +13,13 @@ Oral presentation, <strong>2018 IEEE/RSJ International Conference on Intelligent
 
 * Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Predicting trajectories of vehicles using large-scale motion priors](/publications/2018_IV_0596.pdf){:target="_blank"}, Oral presentation, <strong>2018 IEEE Intelligent Vehicles Symposium (IV) Changshu, Suzhou, China, June 26-30, 2018</strong>
 
-
-## Projects
-[Coming soon]
-
 ## Experience
 
 ### [Blue Vision Labs](https://www.bluevisionlabs.com), London, United Kingdom
-<div style="text-align: left">Research Engineering Intern</div> <div style="text-align: right">May 2017 - Mar 2018</div>
+<div style="text-align: left">Research Engineer - Computer Vision and Machine Learning</div> <div style="text-align: right">Aug 2018 - </div>
+
+### [Blue Vision Labs](https://www.bluevisionlabs.com), London, United Kingdom
+<div style="text-align: left">Research Intern</div> <div style="text-align: right">May 2017 - Mar 2018</div>
 
 ### [CGG, Charles University](http://cgg.mff.cuni.cz/), Prague, Czech Republic
 <div style="text-align: left"> Research Intern, Computer Graphics Group</div> <div style="text-align: right"> Nov 2015 - Jul 2016</div>
