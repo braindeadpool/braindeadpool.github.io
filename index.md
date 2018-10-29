@@ -8,8 +8,8 @@ layout: default
 Hi! I'm interested in computer vision and deep learning with an emphasis on visual perception and SLAM.
 
 ## Publications
-* Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Visual vehicle tracking through noise and occlusions using crowd-sourced maps](#),
-Oral presentation, <strong>2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), October, 1- 5, 2018 Madrid, Spain</strong>
+* Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Visual vehicle tracking through noise and occlusions using crowd-sourced maps](/publications/2018_IROS_1261.pdf){:target="_blank"},
+Spotlight talk, <strong>2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), October, 1- 5, 2018 Madrid, Spain</strong>
 
 * Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Predicting trajectories of vehicles using large-scale motion priors](/publications/2018_IV_0596.pdf){:target="_blank"}, Oral presentation, <strong>2018 IEEE Intelligent Vehicles Symposium (IV) Changshu, Suzhou, China, June 26-30, 2018</strong>
 
