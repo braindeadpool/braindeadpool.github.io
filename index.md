@@ -15,7 +15,7 @@ Spotlight talk, <strong>2018 IEEE/RSJ International Conference on Intelligent Ro
 
 ## Experience
 
-### [Blue Vision Labs](https://www.bluevisionlabs.com), London, United Kingdom
+### [Lyft Level 5 (previously Blue Vision Labs)](https://www.bluevisionlabs.com), London, United Kingdom
 <div style="text-align: left">Research Engineer - Computer Vision and Machine Learning</div> <div style="text-align: right">Aug 2018 - </div>
 
 ### [Blue Vision Labs](https://www.bluevisionlabs.com), London, United Kingdom
