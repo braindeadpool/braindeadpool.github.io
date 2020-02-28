@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-Hi! I'm interested in computer vision and deep learning with an emphasis on visual perception and SLAM.
+Hi! I'm interested in computer vision and deep learning with an emphasis on visual perception and prediction for autonomous mobile robotics.
 
 ## Publications
 * Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Visual vehicle tracking through noise and occlusions using crowd-sourced maps](/publications/2018_IROS_1261.pdf){:target="_blank"},
@@ -15,10 +15,10 @@ Spotlight talk, <strong>2018 IEEE/RSJ International Conference on Intelligent Ro
 
 ## Experience
 
-### [Lyft Level 5 (previously Blue Vision Labs)](https://www.bluevisionlabs.com), London, United Kingdom
+### [Lyft Level 5 (previously Blue Vision Labs)](https://level5.lyft.com/), London, United Kingdom
 <div style="text-align: left">Research Engineer - Computer Vision and Machine Learning</div> <div style="text-align: right">Aug 2018 - </div>
 
-### [Blue Vision Labs](https://www.bluevisionlabs.com), London, United Kingdom
+### [Blue Vision Labs](https://www.crunchbase.com/organization/blue-vision-labs), London, United Kingdom
 <div style="text-align: left">Research Intern</div> <div style="text-align: right">May 2017 - Mar 2018</div>
 
 ### [CGG, Charles University](http://cgg.mff.cuni.cz/), Prague, Czech Republic
