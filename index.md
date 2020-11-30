@@ -17,9 +17,12 @@ Hi! I’m interested in leveraging large-scale data and system design to solve c
 
 ## Experience
 
+### [Relation Therapeutics](https://www.relationrx.com/), London, United Kingdom
+<div style="text-align: left">Machine Learning Engineer</div> <div style="text-align: right">Nov 2020 - </div>
+
 ### [Lyft Level 5 (previously Blue Vision Labs)](https://level5.lyft.com/), London, United Kingdom
 
-<div style="text-align: left">Research Engineer - Computer Vision and Machine Learning</div> <div style="text-align: right">Aug 2018 - </div>
+<div style="text-align: left">Research Engineer - Computer Vision and Machine Learning</div> <div style="text-align: right">Aug 2018 - Apr 2020</div>
 
 ### [Blue Vision Labs](https://www.crunchbase.com/organization/blue-vision-labs), London, United Kingdom
 
