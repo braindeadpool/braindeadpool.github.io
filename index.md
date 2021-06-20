@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-Hi! I’m interested in leveraging large-scale data and system design to solve challenging problems. I have worked bothon the research and on production software-engineering aspects of city-scale visual SLAM for augmented reality, large-scale visual perception pipelines and on data-driven prediction and planning for autonomous driving.
+Hi! I’m interested in leveraging large-scale data and system design to solve challenging problems. I have worked both on the research and on production software-engineering aspects of city-scale visual SLAM for augmented reality, large-scale visual perception pipelines and on data-driven prediction and planning for autonomous driving.
 
 ## Publications
 
