@@ -28,7 +28,7 @@ Hi! I’m interested in leveraging large-scale data and system design to solve c
 
 <div style="text-align: left">Research Intern</div> <div style="text-align: right">May 2017 - Mar 2018</div>
 
-### [CGG, Charles University](http://cgg.mff.cuni.cz/), Prague, Czech Republic
+### [CGG, Charles University](https://cgg.mff.cuni.cz/), Prague, Czech Republic
 
 <div style="text-align: left"> Research Intern, Computer Graphics Group</div> <div style="text-align: right"> Nov 2015 - Jul 2016</div>
 
@@ -42,10 +42,10 @@ Hi! I’m interested in leveraging large-scale data and system design to solve c
 
 <div style="text-align: left">MS Computer Science</div> <div style="text-align: right">Aug 2016 - May 2018</div>
 
-### [Universidad de Zaragoza](http://graphics.unizar.es/), Zaragoza, Spain
+### [Universidad de Zaragoza](https://graphics.unizar.es/), Zaragoza, Spain
 
 <div style="text-align: left">Visiting student, Graphics and Imaging Lab</div> <div style="text-align: right">Jan 2015 - Jun 2015</div>
 
-### [BITS Pilani](http://www.bits-pilani.ac.in/Goa/), Goa, India
+### [BITS Pilani](https://www.bits-pilani.ac.in/Goa/), Goa, India
 
 <div style="text-align: left">BE(Hons) Electrical and Electronics</div> <div style="text-align: right">Aug 2011 - Jul 2015</div>
