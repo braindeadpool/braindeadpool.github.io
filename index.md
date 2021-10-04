@@ -21,8 +21,6 @@ Hi! I’m interested in leveraging large-scale data and system design to solve c
 
 <div style="text-align: left">Senior ML Engineer</div> <div style="text-align: right">Sep 2021 - Present </div>
 
-### [Relation Therapeutics](https://www.relationrx.com/), London, United Kingdom
-
 <div style="text-align: left">Research Engineer - ML</div> <div style="text-align: right">Nov 2020 - Aug 2021</div>
 
 ### [Lyft Level 5 (previously Blue Vision Labs)](https://level5.lyft.com/), London, United Kingdom
