@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-Hi! I’m interested in leveraging large-scale data and system design to solve challenging problems. I have worked both on the research and on production software-engineering aspects of city-scale visual SLAM for augmented reality, large-scale visual perception pipelines and on data-driven prediction and planning for autonomous driving.
+Hi! I’m interested in leveraging large-scale data and system design to solve challenging problems. I have worked both on the research and on production software-engineering aspects of city-scale visual SLAM for augmented reality, large-scale visual perception pipelines and on data-driven prediction and planning for autonomous driving. I currently work on leveraging graph learning for decoding complex biology - both on the machine learning and engineering aspects.
 
 ## Publications
 
@@ -18,7 +18,10 @@ Hi! I’m interested in leveraging large-scale data and system design to solve c
 ## Experience
 
 ### [Relation Therapeutics](https://www.relationrx.com/), London, United Kingdom
-<div style="text-align: left">Research Engineer - ML</div> <div style="text-align: right">Nov 2020 - </div>
+
+<div style="text-align: left">Senior ML Engineer</div> <div style="text-align: right">Sep 2021 - Present </div>
+
+<div style="text-align: left">Research Engineer - ML</div> <div style="text-align: right">Nov 2020 - Aug 2021</div>
 
 ### [Lyft Level 5 (previously Blue Vision Labs)](https://level5.lyft.com/), London, United Kingdom
 
