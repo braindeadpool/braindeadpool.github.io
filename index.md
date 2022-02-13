@@ -10,6 +10,9 @@ Hi! I’m interested in leveraging large-scale data and system design to solve c
 
 ## Publications
 
+- Paul Bertin, Jarrid Rector-Brooks, Deepak Sharma, Thomas Gaudelet, Andrew Anighoro, Torsten Gross, Francisco Martinez-Pena, Eileen L. Tang, Suraj M S, Cristian Regep, Jeremy Hayter, Maksym Korablyov, Nicholas Valiante, Almer van der Sloot, Mike Tyers, Charles Roberts, Michael M. Bronstein, Luke L. Lairson, Jake P. Taylor-King, Yoshua Bengio, [RECOVER: sequential model optimization platform for combination drug repurposing identifies novel synergistic compounds in vitro](https://arxiv.org/abs/2202.04202){:target="\_blank"},
+  arXiv pre-print, <strong>arXiv:2202.04202</strong>
+
 - Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Visual vehicle tracking through noise and occlusions using crowd-sourced maps](/publications/2018_IROS_1261.pdf){:target="\_blank"},
   Spotlight talk, <strong>2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), October, 1- 5, 2018 Madrid, Spain</strong>
 
