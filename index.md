@@ -23,9 +23,13 @@ Hi! I’m interested in leveraging large-scale data and system design to solve c
 
 ## Experience
 
+### [Entrepreneur First](https://www.joinef.com/), London, United Kingdom
+
+<div style="text-align: left">Founder in Residence</div> <div style="text-align: right">Apr 2022 - Present </div>
+
 ### [Relation Therapeutics](https://www.relationrx.com/), London, United Kingdom
 
-<div style="text-align: left">Senior ML Engineer</div> <div style="text-align: right">Sep 2021 - Present </div>
+<div style="text-align: left">Senior ML Engineer</div> <div style="text-align: right">Sep 2021 - Mar 2022 </div>
 
 <div style="text-align: left">Research Engineer - ML</div> <div style="text-align: right">Nov 2020 - Aug 2021</div>
 
