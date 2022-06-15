@@ -10,6 +10,9 @@ Hi! I’m interested in leveraging large-scale data and system design to solve c
 
 ## Publications
 
+- Paul Scherer, Thomas Gaudelet, Alison Pouplin, Suraj M S, Jyothish Soman, Lindsay Edwards, Jake P. Taylor-King, [PyRelationAL: A Library for Active Learning Research and Development](https://arxiv.org/abs/2205.11117){:target="\_blank"},
+  arXiv pre-print, <strong>arXiv:2205.11117</strong>
+
 - Paul Bertin, Jarrid Rector-Brooks, Deepak Sharma, Thomas Gaudelet, Andrew Anighoro, Torsten Gross, Francisco Martinez-Pena, Eileen L. Tang, Suraj M S, Cristian Regep, Jeremy Hayter, Maksym Korablyov, Nicholas Valiante, Almer van der Sloot, Mike Tyers, Charles Roberts, Michael M. Bronstein, Luke L. Lairson, Jake P. Taylor-King, Yoshua Bengio, [RECOVER: sequential model optimization platform for combination drug repurposing identifies novel synergistic compounds in vitro](https://arxiv.org/abs/2202.04202){:target="\_blank"},
   arXiv pre-print, <strong>arXiv:2202.04202</strong>
 
