@@ -6,7 +6,10 @@ layout: default
 
 ## About Me
 
-Hi! I’m interested in leveraging large-scale data and system design to solve challenging problems. I have worked both on the research and on production software-engineering aspects of city-scale visual SLAM for augmented reality, large-scale visual perception pipelines and on data-driven prediction and planning for autonomous driving. I currently work on leveraging graph learning for decoding complex biology - both on the machine learning and engineering aspects.
+Hi! 
+I'm currently exploring startup ideas in the climate tech space. If you are passionate about climate or would like to leverage AI and tech to solve problems in the space, I'd love to talk :)
+
+Previously, I have worked on AI research and engineering across city-scale Augmented Reality, self-driving cars and drug discovery. 
 
 ## Publications
 
@@ -21,44 +24,48 @@ Hi! I’m interested in leveraging large-scale data and system design to solve c
 
 - Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Predicting trajectories of vehicles using large-scale motion priors](/publications/2018_IV_0596.pdf){:target="\_blank"}, Oral presentation, <strong>2018 IEEE Intelligent Vehicles Symposium (IV) Changshu, Suzhou, China, June 26-30, 2018</strong>
 
+## Patents
+
+- [Enhanced vehicle tracking](https://patents.google.com/patent/US10668921B2/en){:target="\_blank"}, US10668921B2
+
 ## Experience
 
-### [Entrepreneur First](https://www.joinef.com/), London, United Kingdom
+### [OnDeck Fellow](https://www.beondeck.com/){:target="\_blank"}, Remote
 
-<div style="text-align: left">Founder in Residence</div> <div style="text-align: right">Apr 2022 - Present </div>
+<div style="text-align: left">ODF13 cohort</div> <div style="text-align: right">Jun 2022 - Present </div>
 
-### [Relation Therapeutics](https://www.relationrx.com/), London, United Kingdom
+### [Entrepreneur First](https://www.joinef.com/){:target="\_blank"}, London, United Kingdom
+
+<div style="text-align: left">Founder in Residence (LD18)</div> <div style="text-align: right">Apr 2022 - May 2022 </div>
+
+### [Relation Therapeutics](https://www.relationrx.com/){:target="\_blank"}, London, United Kingdom
 
 <div style="text-align: left">Senior ML Engineer</div> <div style="text-align: right">Sep 2021 - Mar 2022 </div>
 
 <div style="text-align: left">Research Engineer - ML</div> <div style="text-align: right">Nov 2020 - Aug 2021</div>
 
-### [Lyft Level 5 (previously Blue Vision Labs)](https://level5.lyft.com/), London, United Kingdom
+### [Lyft Level 5 (previously Blue Vision Labs)](https://level5.lyft.com/){:target="\_blank"}, London, United Kingdom
 
 <div style="text-align: left">Research Engineer - Computer Vision and Machine Learning</div> <div style="text-align: right">Aug 2018 - Apr 2020</div>
 
-### [Blue Vision Labs](https://www.crunchbase.com/organization/blue-vision-labs), London, United Kingdom
+### [Blue Vision Labs](https://www.crunchbase.com/organization/blue-vision-labs){:target="\_blank"}, London, United Kingdom
 
 <div style="text-align: left">Research Intern</div> <div style="text-align: right">May 2017 - Mar 2018</div>
 
-### [CGG, Charles University](https://cgg.mff.cuni.cz/), Prague, Czech Republic
-
-<div style="text-align: left"> Research Intern, Computer Graphics Group</div> <div style="text-align: right"> Nov 2015 - Jul 2016</div>
-
-### [Google Summer of Code](https://www.google-melange.com/archive/gsoc/2014), Remote, India
-
-<div style="text-align: left"> Contract Developer</div> <div style="text-align: right"> May 2014 - Aug 2014</div>
-
 ## Education
 
-### [Georgia Institute of Technology](https://www.cc.gatech.edu), Atlanta, United States
+### [Georgia Institute of Technology](https://www.cc.gatech.edu){:target="\_blank"}, Atlanta, United States
 
 <div style="text-align: left">MS Computer Science</div> <div style="text-align: right">Aug 2016 - May 2018</div>
 
-### [Universidad de Zaragoza](https://graphics.unizar.es/), Zaragoza, Spain
+### [CGG, Charles University](https://cgg.mff.cuni.cz/){:target="\_blank"}, Prague, Czech Republic
+
+<div style="text-align: left"> Research Intern, Computer Graphics Group</div> <div style="text-align: right"> Nov 2015 - Jul 2016</div>
+
+### [Universidad de Zaragoza](https://graphics.unizar.es/){:target="\_blank"}, Zaragoza, Spain
 
 <div style="text-align: left">Visiting student, Graphics and Imaging Lab</div> <div style="text-align: right">Jan 2015 - Jun 2015</div>
 
-### [BITS Pilani](https://www.bits-pilani.ac.in/Goa/), Goa, India
+### [BITS Pilani](https://www.bits-pilani.ac.in/Goa/){:target="\_blank"}, Goa, India
 
 <div style="text-align: left">BE(Hons) Electrical and Electronics</div> <div style="text-align: right">Aug 2011 - Jul 2015</div>

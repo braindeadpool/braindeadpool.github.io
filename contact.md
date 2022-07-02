@@ -7,6 +7,7 @@ is_contact: true
 
 ---
 
-1. [LinkedIn](https://www.linkedin.com/in/braindeadpool)
-2. [Github](https://www.github.com/braindeadpool)
-3. [Facebook](https://www.facebook.com/mssurajkaiga)
+1. [LinkedIn](https://www.linkedin.com/in/braindeadpool){:target="\_blank"}
+2. [Google Scholar](https://scholar.google.com/citations?user=Ikb9bJEAAAAJ&hl=en){:target="\_blank"}
+3. [Github](https://www.github.com/braindeadpool){:target="\_blank"}
+4. [Facebook](https://www.facebook.com/mssurajkaiga){:target="\_blank"}
