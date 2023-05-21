@@ -7,9 +7,11 @@ layout: default
 ## About Me
 
 Hi! 
-I'm currently exploring startup ideas in the climate tech space. If you are passionate about climate or would like to leverage AI and tech to solve problems in the space, I'd love to talk :)
+I'm currently building Third Polaris - an early-stage startup bringing modern data pipelines and AI to battery manufacturing. 
 
-Previously, I have worked on AI research and engineering across city-scale Augmented Reality, self-driving cars and drug discovery. 
+If you are passionate about climate or would like to leverage AI and tech to solve problems in the space, I'd love to talk :)
+
+Previously, I have worked on AI research and engineering across augmented reality, autonomous driving and drug discovery. 
 
 ## Publications
 
@@ -29,10 +31,13 @@ Previously, I have worked on AI research and engineering across city-scale Augme
 - [Enhanced vehicle tracking](https://patents.google.com/patent/US10668921B2/en){:target="\_blank"}, US10668921B2
 
 ## Experience
+### [Third Polaris](https://www.thirdpolaris.com/){:target="\_blank"}, London, United Kingdom
+
+<div style="text-align: left">Co-founder</div> <div style="text-align: right">Jan 2023 - Present </div>
 
 ### [OnDeck Fellow](https://www.beondeck.com/){:target="\_blank"}, Remote
 
-<div style="text-align: left">ODF13 cohort</div> <div style="text-align: right">Jun 2022 - Present </div>
+<div style="text-align: left">ODF13 cohort</div> <div style="text-align: right">Jun 2022 - May 2023 </div>
 
 ### [Entrepreneur First](https://www.joinef.com/){:target="\_blank"}, London, United Kingdom
 
