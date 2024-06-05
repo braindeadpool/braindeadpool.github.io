@@ -7,7 +7,7 @@ layout: default
 ## About Me
 
 Hi! 
-I'm currently building Third Polaris - an early-stage startup bringing modern data pipelines and AI to battery manufacturing. 
+I'm the founder of Third Polaris - an early-stage startup bringing modern data pipelines and AI to climate impact companies. 
 
 If you are passionate about climate or would like to leverage AI and tech to solve problems in the space, I'd love to talk :)
 
@@ -33,7 +33,7 @@ Previously, I have worked on AI research and engineering across augmented realit
 ## Experience
 ### [Third Polaris](https://www.thirdpolaris.com/){:target="\_blank"}, London, United Kingdom
 
-<div style="text-align: left">Co-founder</div> <div style="text-align: right">Jan 2023 - Present </div>
+<div style="text-align: left">Co-founder/CEO</div> <div style="text-align: right">Jan 2023 - Present </div>
 
 ### [OnDeck Fellow](https://www.beondeck.com/){:target="\_blank"}, Remote
 
