@@ -7,11 +7,8 @@ layout: default
 ## About Me
 
 Hi! 
-I'm the founder of Third Polaris - an early-stage startup bringing modern data pipelines and AI to climate impact companies. 
-
-If you are passionate about climate or would like to leverage AI and tech to solve problems in the space, I'd love to talk :)
-
-Previously, I have worked on AI research and engineering across augmented reality, autonomous driving and drug discovery. 
+I'm an AI consultant with a background in product development, data/ML research and engineering. 
+Previously, I worked at early to late-stage startups across biotech, climate, autonomous driving, and AR.
 
 ## Publications
 
@@ -33,7 +30,7 @@ Previously, I have worked on AI research and engineering across augmented realit
 ## Experience
 ### [Third Polaris](https://www.thirdpolaris.com/){:target="\_blank"}, London, United Kingdom
 
-<div style="text-align: left">Co-founder/CEO</div> <div style="text-align: right">Jan 2023 - Present </div>
+<div style="text-align: left">Co-founder</div> <div style="text-align: right">Jan 2023 - Jan 2025 </div>
 
 ### [OnDeck Fellow](https://www.beondeck.com/){:target="\_blank"}, Remote
 
