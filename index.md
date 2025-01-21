@@ -8,7 +8,10 @@ layout: default
 
 Hi! 
 I'm an AI consultant with a background in product development, data/ML research and engineering. 
+
 Previously, I worked at early to late-stage startups across biotech, climate, autonomous driving, and AR.
+
+[Writings](https://mssuraj.substack.com/){:target="\_blank"} ; [Email](mailto:suraj@mssuraj.com)
 
 ## Publications
 
