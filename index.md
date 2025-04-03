@@ -6,29 +6,24 @@ layout: default
 
 ## About Me
 
-Hi! 
-I'm an AI consultant with a background in product development, data/ML research and engineering. 
+I help startups deploy AI effectively—without needing an in-house AI team.
 
-Previously, I worked at early to late-stage startups across biotech, climate, autonomous driving, and AR.
+With a background spanning **biotech, climate, autonomous driving, AR, and deep tech**, I specialize in guiding startups from idea to execution.
+
+As a **former founder, AI researcher, and engineer**, I understand the technical, product, and commercial challenges of bringing AI products to market.
+
+* AI & Product Strategy – Defining & validating AI use cases for real business impact.
+* Building from -1 to 1 – From proof-of-concept to scalable AI deployment.
+* Fractional CTO / Advisor – Providing high-level technical leadership without the full-time overhead.
+* Fundraising & GTM Execution – Helping AI startups navigate venture funding & early traction.
+
+🚀 Let’s connect if you need AI execution expertise to accelerate your startup’s growth!
+
+---
 
 [Writings](https://mssuraj.substack.com/){:target="\_blank"} ; [Email](mailto:suraj@mssuraj.com)
 
-## Publications
-
-- Paul Scherer, Thomas Gaudelet, Alison Pouplin, Suraj M S, Jyothish Soman, Lindsay Edwards, Jake P. Taylor-King, [PyRelationAL: A Library for Active Learning Research and Development](https://arxiv.org/abs/2205.11117){:target="\_blank"},
-  arXiv pre-print, <strong>arXiv:2205.11117</strong>
-
-- Paul Bertin, Jarrid Rector-Brooks, Deepak Sharma, Thomas Gaudelet, Andrew Anighoro, Torsten Gross, Francisco Martinez-Pena, Eileen L. Tang, Suraj M S, Cristian Regep, Jeremy Hayter, Maksym Korablyov, Nicholas Valiante, Almer van der Sloot, Mike Tyers, Charles Roberts, Michael M. Bronstein, Luke L. Lairson, Jake P. Taylor-King, Yoshua Bengio, [RECOVER: sequential model optimization platform for combination drug repurposing identifies novel synergistic compounds in vitro](https://arxiv.org/abs/2202.04202){:target="\_blank"},
-  arXiv pre-print, <strong>arXiv:2202.04202</strong>
-
-- Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Visual vehicle tracking through noise and occlusions using crowd-sourced maps](/publications/2018_IROS_1261.pdf){:target="\_blank"},
-  Spotlight talk, <strong>2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), October, 1- 5, 2018 Madrid, Spain</strong>
-
-- Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Predicting trajectories of vehicles using large-scale motion priors](/publications/2018_IV_0596.pdf){:target="\_blank"}, Oral presentation, <strong>2018 IEEE Intelligent Vehicles Symposium (IV) Changshu, Suzhou, China, June 26-30, 2018</strong>
-
-## Patents
-
-- [Enhanced vehicle tracking](https://patents.google.com/patent/US10668921B2/en){:target="\_blank"}, US10668921B2
+---
 
 ## Experience
 ### [Third Polaris](https://www.thirdpolaris.com/){:target="\_blank"}, London, United Kingdom
@@ -56,6 +51,29 @@ Previously, I worked at early to late-stage startups across biotech, climate, au
 ### [Blue Vision Labs](https://www.crunchbase.com/organization/blue-vision-labs){:target="\_blank"}, London, United Kingdom
 
 <div style="text-align: left">Research Intern</div> <div style="text-align: right">May 2017 - Mar 2018</div>
+
+---
+
+## Publications
+
+- Paul Scherer, Thomas Gaudelet, Alison Pouplin, Suraj M S, Jyothish Soman, Lindsay Edwards, Jake P. Taylor-King, [PyRelationAL: A Library for Active Learning Research and Development](https://arxiv.org/abs/2205.11117){:target="\_blank"},
+  arXiv pre-print, <strong>arXiv:2205.11117</strong>
+
+- Paul Bertin, Jarrid Rector-Brooks, Deepak Sharma, Thomas Gaudelet, Andrew Anighoro, Torsten Gross, Francisco Martinez-Pena, Eileen L. Tang, Suraj M S, Cristian Regep, Jeremy Hayter, Maksym Korablyov, Nicholas Valiante, Almer van der Sloot, Mike Tyers, Charles Roberts, Michael M. Bronstein, Luke L. Lairson, Jake P. Taylor-King, Yoshua Bengio, [RECOVER: sequential model optimization platform for combination drug repurposing identifies novel synergistic compounds in vitro](https://arxiv.org/abs/2202.04202){:target="\_blank"},
+  arXiv pre-print, <strong>arXiv:2202.04202</strong>
+
+- Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Visual vehicle tracking through noise and occlusions using crowd-sourced maps](/publications/2018_IROS_1261.pdf){:target="\_blank"},
+  Spotlight talk, <strong>2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), October, 1- 5, 2018 Madrid, Spain</strong>
+
+- Suraj M S, Hugo Grimmett, Lukáš Platinský and Peter Ondrúška, [Predicting trajectories of vehicles using large-scale motion priors](/publications/2018_IV_0596.pdf){:target="\_blank"}, Oral presentation, <strong>2018 IEEE Intelligent Vehicles Symposium (IV) Changshu, Suzhou, China, June 26-30, 2018</strong>
+
+---
+
+## Patents
+
+- [Enhanced vehicle tracking](https://patents.google.com/patent/US10668921B2/en){:target="\_blank"}, US10668921B2
+
+---
 
 ## Education
 
