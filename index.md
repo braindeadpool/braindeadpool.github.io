@@ -21,7 +21,7 @@ As a **former founder, AI researcher, and engineer**, I understand the technical
 
 ---
 
-[Writings](https://mssuraj.substack.com/){:target="\_blank"} ; [Email](mailto:suraj@mssuraj.com)
+[Email](mailto:suraj@mssuraj.com) ; [Writings](https://mssuraj.substack.com/){:target="\_blank"} 
 
 ---
 
