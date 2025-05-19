@@ -15,9 +15,6 @@ As a **former founder, AI researcher, and engineer**, I understand the technical
 * AI & Product Strategy – Defining & validating AI use cases for real business impact.
 * Building from -1 to 1 – From proof-of-concept to scalable AI deployment.
 * Fractional CTO / Advisor – Providing high-level technical leadership without the full-time overhead.
-* Fundraising & GTM Execution – Helping AI startups navigate venture funding & early traction.
-
-🚀 Let’s connect if you need AI execution expertise to accelerate your startup’s growth!
 
 ---
 
