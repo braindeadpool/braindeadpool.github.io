@@ -6,30 +6,36 @@ layout: default
 
 ## About Me
 
-I help startups deploy AI effectively—without needing an in-house AI team.
+I'm an **ex-founder, ML researcher, and engineer**, who enjoys building ML products from 0-1 and beyond.
+Previously, I've worked in early-stage startups to scale-ups across **biotech, climate, autonomous driving, physics simulation** to name some.
 
-With a background spanning **biotech, climate, autonomous driving, AR, and deep tech**, I specialize in guiding startups from idea to execution.
+I'm passionate about affordable and accessible healthcare, pragmatically using AI, and tackling hard problems.
 
-As a **former founder, AI researcher, and engineer**, I understand the technical, product, and commercial challenges of bringing AI products to market.
+In my spare time, you might find me chasing the sun, strong coffee, scenic peaks, or trying to keep up with [Letterboxd](https://letterboxd.com/mssuraj/) rushes.
 
-* AI & Product Strategy – Defining & validating AI use cases for real business impact.
-* Building from -1 to 1 – From proof-of-concept to scalable AI deployment.
-* Fractional CTO / Advisor – Providing high-level technical leadership without the full-time overhead.
+I occasionally write on [Substack](https://mssuraj.substack.com/){:target="\_blank"}.
+
 
 ---
 
-[Email](mailto:suraj@mssuraj.com) ; [Writings](https://mssuraj.substack.com/){:target="\_blank"} 
+[Email](mailto:suraj@mssuraj.com)
 
 ---
 
 ## Experience
+### [PhysicsX](https://www.physicsx.ai/){:target="\_blank"}, London, United Kingdom
+
+<div style="text-align: left">AI consultant (part-time)</div> <div style="text-align: right">Aug 2025 - present </div>
+
+### [Oculo](http://oculo.ai/){:target="\_blank"}, London, United Kingdom
+
+<div style="text-align: left">AI consultant (part-time)</div> <div style="text-align: right">May 2025 - Aug 2025 </div>
+
+
 ### [Third Polaris](https://www.thirdpolaris.com/){:target="\_blank"}, London, United Kingdom
 
 <div style="text-align: left">Co-founder</div> <div style="text-align: right">Jan 2023 - Jan 2025 </div>
 
-### [OnDeck Fellow](https://www.beondeck.com/){:target="\_blank"}, Remote
-
-<div style="text-align: left">ODF13 cohort</div> <div style="text-align: right">Jun 2022 - May 2023 </div>
 
 ### [Entrepreneur First](https://www.joinef.com/){:target="\_blank"}, London, United Kingdom
 
@@ -43,7 +49,7 @@ As a **former founder, AI researcher, and engineer**, I understand the technical
 
 ### [Lyft Level 5 (previously Blue Vision Labs)](https://level5.lyft.com/){:target="\_blank"}, London, United Kingdom
 
-<div style="text-align: left">Research Engineer - Computer Vision and Machine Learning</div> <div style="text-align: right">Aug 2018 - Apr 2020</div>
+<div style="text-align: left">Research Engineer - CV/ML</div> <div style="text-align: right">Aug 2018 - Apr 2020</div>
 
 ### [Blue Vision Labs](https://www.crunchbase.com/organization/blue-vision-labs){:target="\_blank"}, London, United Kingdom
 
