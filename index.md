@@ -6,13 +6,12 @@ layout: default
 
 ## About Me
 
-I'm an **ex-founder, ML researcher, and engineer**, who enjoys building ML products from 0-1 and beyond.
-Previously, I've worked in early-stage startups to scale-ups across **biotech, climate, autonomous driving, physics simulation** to name some.
+I'm an **ex-founder, ML researcher, and engineer**, who enjoys building ML products from 0-1.
+Previously, I've worked in early-stage startups to scale-ups across **biotech, climate, autonomous driving, physics simulation**.
 
-I'm passionate about affordable and accessible healthcare, pragmatically using AI, and tackling hard problems.
+I'm passionate about affordable healthcare, pragmatic AI, and hard problems.
 
-In my spare time, you might find me chasing the sun, strong coffee, scenic peaks, or trying to keep up with [Letterboxd](https://letterboxd.com/mssuraj/) rushes.
-
+Off the clock, you might find me chasing the sun, strong coffee, scenic peaks, or  keeping up with [Letterboxd](https://letterboxd.com/mssuraj/) rushes.
 I occasionally write on [Substack](https://mssuraj.substack.com/){:target="\_blank"}.
 
 
@@ -25,7 +24,7 @@ I occasionally write on [Substack](https://mssuraj.substack.com/){:target="\_bla
 ## Experience
 ### [PhysicsX](https://www.physicsx.ai/){:target="\_blank"}, London, United Kingdom
 
-<div style="text-align: left">AI consultant (part-time)</div> <div style="text-align: right">Aug 2025 - present </div>
+<div style="text-align: left">AI consultant (part-time)</div> <div style="text-align: right">Aug 2025 - Jan 2026 </div>
 
 ### [Oculo](http://oculo.ai/){:target="\_blank"}, London, United Kingdom
 
