@@ -24,11 +24,11 @@ I occasionally write on [Substack](https://mssuraj.substack.com/){:target="\_bla
 ## Experience
 ### [PhysicsX](https://www.physicsx.ai/){:target="\_blank"}, London, United Kingdom
 
-<div style="text-align: left">AI consultant (part-time)</div> <div style="text-align: right">Aug 2025 - Jan 2026 </div>
+<div style="text-align: left">AI/Engineering</div> <div style="text-align: right">Aug 2025 - Jan 2026 </div>
 
 ### [Oculo](http://oculo.ai/){:target="\_blank"}, London, United Kingdom
 
-<div style="text-align: left">AI consultant (part-time)</div> <div style="text-align: right">May 2025 - Aug 2025 </div>
+<div style="text-align: left">AI/Engineering</div> <div style="text-align: right">May 2025 - Aug 2025 </div>
 
 
 ### [Third Polaris](https://www.thirdpolaris.com/){:target="\_blank"}, London, United Kingdom
